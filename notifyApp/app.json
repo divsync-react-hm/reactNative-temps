@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "notifyApplication"
+  },
+  "name": "notifyApplication",
+  "displayName": "notifyApplication",
+  "android" : {
+    "useNextNotificationApi": true
+  }
+}
